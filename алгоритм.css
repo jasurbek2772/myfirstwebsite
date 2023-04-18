@@ -1,0 +1,52 @@
+body{
+	background-image: url(https://img.freepik.com/premium-vector/abstract-dark-brick-wall-background-creative-design-for-your-web-site_518299-623.jpg);
+}
+h1{
+	font-size: 100px;
+	font-family:'Times New Roman', Times, serif;
+	color: aqua;
+	text-align: center;
+}
+.ax2bx{
+	font-size: 50px;
+	font-family: 'Times New Roman', Times, serif;
+	color: aqua;
+	text-align: center;
+}
+.numerasiy{
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+	color: aquamarine;
+	padding-left: 50px;
+}
+
+.num1 p{
+	padding-left: 100px;
+	font-size: 40px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.num2 p{
+	padding-left: 100px;
+	font-size: 40px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.num3 p{
+	padding-left: 100px;
+	font-size: 30px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.num4 p{
+	padding-left: 100px;
+	font-size: 30px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.num5 p{
+	padding-left: 100px;
+	font-size: 30px;
+	padding-top: 0;
+	padding-bottom: 0;
+}

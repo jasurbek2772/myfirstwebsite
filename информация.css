@@ -1,0 +1,37 @@
+.formula{
+    text-align: center;
+   
+    color: aqua;
+    padding: 30px;
+    font-size: 40px;
+
+}
+.name{
+    text-align: center;
+    padding: 250px;
+    color: aqua;
+    font-size: 35px;
+}
+.body{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    color: aqua;
+}
+body{
+    background-image: url(https://avatars.mds.yandex.net/i?id=9e09041a5a407c6a47b3056f17d5ffcfd015f264-9229079-images-thumbs&n=13);
+}
+.col{
+    color: aqua;
+    font-size: 35px;
+
+}
+.coll{
+    color: aqua;
+    font-size: 30px;
+}
+.punkt{
+    color: aqua;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
